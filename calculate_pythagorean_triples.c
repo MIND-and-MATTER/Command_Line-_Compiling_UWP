@@ -1,3 +1,8 @@
+/*
+*Returns pythagorean triples
+*Modified by Michael Luccas 2021-05-04
+ */
+
 # include <stdio.h>
 # include <math.h>
 # include <stdlib.h>
