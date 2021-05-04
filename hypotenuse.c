@@ -1,3 +1,8 @@
+/*
+*
+ */
+
+
 #include <math.h>
 
 double hypotenuse(int a, int b)
